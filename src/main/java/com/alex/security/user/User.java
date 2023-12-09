@@ -25,8 +25,8 @@ public class User implements UserDetails {
             generator = "user_sequence")
     @Id
     private Integer id;
-    private String firstName;
-    private String lastName;
+    private String firstname;
+    private String lastname;
     private String email;
     private String password;
     @Enumerated(EnumType.STRING)
