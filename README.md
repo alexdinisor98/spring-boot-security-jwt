@@ -1,6 +1,6 @@
 # spring-boot-security-jwt
 Backend Application to Register and Authenticate using Spring Security 6
-Using JWT Tokens, Password Encoder = BCryptPasswordEncoder
+Using JWT Tokens, BCryptPasswordEncoder
 
 Technologies:
 - Spring Boot 3.0
